@@ -10,6 +10,9 @@ Work Flow:
 #Develop Environment
 ESPlorer (The IDE for DEV, upload lua scripts)
 
+#How to Flash the fireware
+use flasher in the folder named flasher. 
+
 
 About firmware
 the two files in the folder firmware is built after some changes:
